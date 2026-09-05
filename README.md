@@ -1,4 +1,4 @@
-# Awesome MATLAB [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome MATLAB [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -110,11 +110,11 @@
 
 ## Related Awesome Lists
 
-- [Awesome Python](https://github.com/awesomelistsio/awesome-python)
-- [Awesome Mathematics](https://github.com/awesomelistsio/awesome-mathematics)
-- [Awesome Simulations](https://github.com/awesomelistsio/awesome-simulations)
-- [Awesome Scientific Computing](https://github.com/awesomelistsio/awesome-scientific-computing)
-- [Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning)
+- [Awesome Python](https://github.com/brandonhimpfen/awesome-python)
+- [Awesome Mathematics](https://github.com/brandonhimpfen/awesome-mathematics)
+- [Awesome Simulations](https://github.com/brandonhimpfen/awesome-simulations)
+- [Awesome Scientific Computing](https://github.com/brandonhimpfen/awesome-scientific-computing)
+- [Awesome Machine Learning](https://github.com/brandonhimpfen/awesome-machine-learning)
 
 ## Contribute
 
