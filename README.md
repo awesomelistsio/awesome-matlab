@@ -51,6 +51,7 @@
 - [NumPy](https://numpy.org/) – Python numerical computing (frequently used as MATLAB alternative).
 - [MATPLOTLIB](https://matplotlib.org/) – Visualization library akin to MATLAB plotting.
 - [SciPy](https://scipy.org/) – Scientific computing library for Python.
+- [RunMat](https://github.com/runmat-org/runmat) – Open-source runtime for MATLAB-syntax numerical programs with automatic GPU acceleration.
 
 ## External Libraries & Utilities
 
